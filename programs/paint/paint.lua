@@ -1,0 +1,7 @@
+-- TODO
+-- Make it so you can draw (and write it to an Array)
+-- Make it so you can save / load (prob in /programs/paint/projects/$name.paint
+-- Make it so you can change colors
+-- Make it so you can erase
+-- Make it so you can draw a rectangel
+-- Make it so you can draw an empti rectangel
